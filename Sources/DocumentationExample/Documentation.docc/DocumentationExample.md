@@ -18,10 +18,10 @@ See ``DocumentationExample/DocumentationExample/grumble(stuff:)`` on ``Documenta
 
 The most often used animation types are listed below.
 
-| Animation   | Description                                                                                         |
-| ----------- | --------------------------------------------------------------------------------------------------- |
-| ``DocumentationExample`` | Do stuff in the example                                                    |
-| ``AnotherExample``    | More things here.                                                  |
+| Type                     | Description                                                        |
+| ------------------------ | ------------------------------------------------------------------ |
+| ``DocumentationExample`` | Do stuff in the example                                            |
+| ``AnotherExample``       | More things here.                                                  |
 
 ## Topics
 
